@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GCT`s Blog</title>
+  
+  <subtitle>persist</subtitle>
+  <link href="https://github.com/ganchuantian/Ganchuantian.github.io.git/atom.xml" rel="self"/>
+  
+  <link href="https://github.com/ganchuantian/Ganchuantian.github.io.git/"/>
+  <updated>2023-09-23T12:02:35.416Z</updated>
+  <id>https://github.com/ganchuantian/Ganchuantian.github.io.git/</id>
+  
+  <author>
+    <name>GCT</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://github.com/ganchuantian/Ganchuantian.github.io.git/2023/09/23/hello-world/"/>
+    <id>https://github.com/ganchuantian/Ganchuantian.github.io.git/2023/09/23/hello-world/</id>
+    <published>2023-09-23T12:02:35.416Z</published>
+    <updated>2023-09-23T12:02:35.416Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvLw==">Hexo</span>! This is your very first post. Check <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv">documentation</span> for more info. If you get any problems when using Hexo, you can find the answer in <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=">troubleshooting</span> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="quick-start"><a class="anchor" href="#quick-start">#</a> Quick Start</h2><h3 id="create-a-new-post"><a class="anchor" href="#create-a-new-post">#</a> Create a new post</h3><figure class="highlight bash"><figcaption data-lang="bash"><span>h</span></figcaption><table><tr><td data-num="1"></td><td><pre>$ hexo new <span class="token string">"My New Post"</span></pre></td></tr></table></figure><p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s">Writing</span></p><h3 id="run-server"><a class="anchor" href="#run-server">#</a> Run server</h3><figure class="highlight bash"><figcaption data-lang="bash"><span>h</span></figcaption><table><tr><td data-num="1"></td><td><pre>$ hexo server</pre></td></tr></table></figure><p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=">Server</span></p><h3 id="generate-static-files"><a class="anchor" href="#generate-static-files">#</a> Generate static files</h3><figure class="highlight bash"><figcaption data-lang="bash"><span>h</span></figcaption><table><tr><td data-num="1"></td><td><pre>$ hexo generate</pre></td></tr></table></figure><p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s">Generating</span></p><h3 id="deploy-to-remote-sites"><a class="anchor" href="#deploy-to-remote-sites">#</a> Deploy to remote sites</h3><figure class="highlight bash"><figcaption data-lang="bash"><span>h</span></figcaption><table><tr><td data-num="1"></td><td><pre>$ hexo deploy</pre></td></tr></table></figure><p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s">Deployment</span></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9oZXhvLmlvLw==&quot;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&quot;exturl&quot;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
