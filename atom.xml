@@ -60,9 +60,9 @@
     <link href="https://github.com/ganchuantian/Ganchuantian.github.io.git/2023/09/23/test-dragt-layout/"/>
     <id>https://github.com/ganchuantian/Ganchuantian.github.io.git/2023/09/23/test-dragt-layout/</id>
     <published>2023-09-23T13:27:20.000Z</published>
-    <updated>2023-09-23T13:39:18.722Z</updated>
+    <updated>2023-09-24T10:27:35.015Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="测试草稿布局"><a class="anchor" href="#测试草稿布局">#</a> 测试草稿布局</h2><h2 id="疑问如果想将草稿布局变更为其他布局如何处理"><a class="anchor" href="#疑问如果想将草稿布局变更为其他布局如何处理">#</a> 疑问如果想将草稿布局变更为其他布局如何处理</h2><p>？？<br />官网上只说了 使用 publish 命令可以将该文档变更到 _posts 文件夹中<br />命令格式为</p><pre><code>$ hexo 发布 [布局] &lt;标题&gt;</code></pre><p>看样子似乎  <code>[布局]</code>  可以选择启发布布局  那么这里的  <code>&lt;标题&gt;</code>  含义又是什么？   草稿的标题？</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="测试草稿布局"><a class="anchor" href="#测试草稿布局">#</a> 测试草稿布局</h2><h2 id="疑问如果想将草稿布局变更为其他布局如何处理"><a class="anchor" href="#疑问如果想将草稿布局变更为其他布局如何处理">#</a> 疑问如果想将草稿布局变更为其他布局如何处理</h2><p>？？<br />官网上只说了 使用 publish 命令可以将该文档变更到 _posts 文件夹中<br />命令格式为</p><pre><code>$ hexo 发布 [布局] &lt;标题&gt;</code></pre><p>看样子似乎  <code>[布局]</code>  可以选择启发布布局  那么这里的  <code>&lt;标题&gt;</code>  含义又是什么？   草稿的标题？</p><p><img data-src="/static/images/backgroud/79970240_p0.png" alt="" /></p>]]></content>
     
     
       
