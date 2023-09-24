@@ -6,7 +6,7 @@
   <link href="https://github.com/ganchuantian/Ganchuantian.github.io.git/atom.xml" rel="self"/>
   
   <link href="https://github.com/ganchuantian/Ganchuantian.github.io.git/"/>
-  <updated>2023-09-23T13:39:18.722Z</updated>
+  <updated>2023-09-24T06:45:52.700Z</updated>
   <id>https://github.com/ganchuantian/Ganchuantian.github.io.git/</id>
   
   <author>
@@ -15,6 +15,45 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test_post3</title>
+    <link href="https://github.com/ganchuantian/Ganchuantian.github.io.git/2023/09/24/test-post3/"/>
+    <id>https://github.com/ganchuantian/Ganchuantian.github.io.git/2023/09/24/test-post3/</id>
+    <published>2023-09-24T06:45:52.000Z</published>
+    <updated>2023-09-24T06:45:52.700Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>test_post2</title>
+    <link href="https://github.com/ganchuantian/Ganchuantian.github.io.git/2023/09/24/test-post2/"/>
+    <id>https://github.com/ganchuantian/Ganchuantian.github.io.git/2023/09/24/test-post2/</id>
+    <published>2023-09-24T06:45:48.000Z</published>
+    <updated>2023-09-24T06:45:48.882Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>test_post1</title>
+    <link href="https://github.com/ganchuantian/Ganchuantian.github.io.git/2023/09/24/test-post1/"/>
+    <id>https://github.com/ganchuantian/Ganchuantian.github.io.git/2023/09/24/test-post1/</id>
+    <published>2023-09-24T06:45:44.000Z</published>
+    <updated>2023-09-24T06:45:44.898Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>test_dragt_layout</title>
